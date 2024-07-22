@@ -8,6 +8,9 @@ The goal of this project is to develop an AI-based credit card fraud detection s
 ## Introduction
 In this project, we will explore various predictive models to evaluate their accuracy in distinguishing between normal transactions and fraudulent ones. Although the dataset's features are scaled and anonymized for privacy reasons, we can still perform meaningful analyses of its key aspects. Let's dive in!
 
+## Dataset
+https://drive.google.com/file/d/19FqoXdVcfHXoTpXNn0bEM9OXvV1oRBNX/view?usp=drive_link
+
 ## Outline
 
 ### I. Initial Data Insights
